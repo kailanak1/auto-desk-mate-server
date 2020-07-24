@@ -1,24 +1,42 @@
-# README
+# Auto Desk Mate
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The server for auto desk mate, a desk organization tool. 
 
-Things you may want to cover:
+## Client 
+This repository is the server for the Auto Desk Mate application. Please visit the [client](https://github.com/nk2303/auto-desk-mate-client) side application.
+
+## About this application
 
 * Ruby version
+2.6.6
 
-* System dependencies
+* Technologies Used
+Rails 
 
-* Configuration
+## Status 
+Under Construction 
 
-* Database creation
+## Authors 
+Kailana Kahawaii & Ngam Kim Kong
 
-* Database initialization
+## License 
+This project is licensed under the [GNU GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-* How to run the test suite
+    Copyright (C) <2020>  <Kailana Kahawaii>
 
-* Services (job queues, cache servers, search engines, etc.)
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
-* Deployment instructions
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
 
 * ...
